@@ -1,1 +1,1 @@
-<img align="center" src="/img/asteroids.gif" width="300" height="300" />
+<img align="center" src="/img/asteroids.gif" width="800" height="800" />
